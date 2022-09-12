@@ -1,0 +1,12 @@
+.site-data .row p{
+    margin: 0;
+    font-weight: bold;
+}
+.table{
+    font-weight: bold;
+}
+
+.table>:not(caption)>*>*{
+    padding: 0.1rem;
+    
+}

@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "i-checklist",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
